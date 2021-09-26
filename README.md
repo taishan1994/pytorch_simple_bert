@@ -146,7 +146,7 @@ QQ宝贝零花钱大作战 攒钱拿奖两不误
 
 ## 基于自己数据进行预训练
 训练结果：
-![image](https://github.com/taishan1994/pytorch_simple_bert/loss.png)
+![image](https://github.com/taishan1994/pytorch_simple_bert/blob/main/loss.png)
 
 进行预测：
 ```python
