@@ -1,0 +1,2 @@
+# pytorch_simple_bert
+更直接的bert代码，可以加载hugging face上的预训练权重，目前支持中文文本分类以及MLM语言模型训练任务。
